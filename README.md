@@ -27,6 +27,7 @@ The passwords was weak enough to be found almost instantly in a small built-in w
 ![Screenshot 202](screenshot-202.png)
   
 - Flag captured
+  ![Screenshot 205](screenshot-205.png)
 - Hash Calculator
 ![Screenshot 203](screenshot-203.png)
   
