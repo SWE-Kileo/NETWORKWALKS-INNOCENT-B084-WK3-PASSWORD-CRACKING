@@ -28,10 +28,10 @@ The passwords was weak enough to be found almost instantly in a small built-in w
   
 - Flag captured
 - Hash Calculator
-- ![Screenshot 203](screenshots/Screenshot%20(203).png)
+![Screenshot 203](screenshots/screenshot-203.png)
   
 - Password Cracker result
-  ![Screenshot 204](screenshots/Screenshot%20(204).png)
+![Screenshot 204](screenshots/screenshot-204.png)
   
 ## Ethical Use
 
