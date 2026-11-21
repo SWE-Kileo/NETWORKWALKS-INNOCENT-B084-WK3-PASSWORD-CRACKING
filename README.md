@@ -24,7 +24,7 @@ The passwords was weak enough to be found almost instantly in a small built-in w
 - Hash extracted with `pdf2john`
 - Hash loaded in Johnny
 - Cracked in Johnny
-- ![Screenshot 202](screenshots/Screenshot%20(202).png)
+- ![Screenshot 202](screenshots/Screenshot%20%28202%29.png)
   
 - Flag captured
 - Hash Calculator
