@@ -24,14 +24,14 @@ The passwords was weak enough to be found almost instantly in a small built-in w
 - Hash extracted with `pdf2john`
 - Hash loaded in Johnny
 - Cracked in Johnny
-![Screenshot 202](screenshots/screenshot-202.png)
+![Screenshot 202](screenshot-202.png)
   
 - Flag captured
 - Hash Calculator
-![Screenshot 203](screenshots/screenshot-203.png)
+![Screenshot 203](screenshot-203.png)
   
 - Password Cracker result
-![Screenshot 204](screenshots/screenshot-204.png)
+![Screenshot 204](screenshot-204.png)
   
 ## Ethical Use
 
