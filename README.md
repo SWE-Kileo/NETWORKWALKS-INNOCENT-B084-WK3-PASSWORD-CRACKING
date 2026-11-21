@@ -35,7 +35,11 @@ The passwords was weak enough to be found almost instantly in a small built-in w
   
 - Password Cracker result
 ![Screenshot 204](screenshot-204.png)
-  
+
+  - Flag captured
+
+    ![Screenshot 206](screenshot-206.png)
+    
 ## Ethical Use
 
 This file was provided for the course's own practice lab.  
